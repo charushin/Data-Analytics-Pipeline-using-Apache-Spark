@@ -1,0 +1,62 @@
+Advertisement
+By STEVE LOHR and NICK WINGFIELDAPRIL 14, 2018
+
+The Mark Zuckerberg show in Washington this past week stirred memories for Senator Orrin G. Hatch. The global interest, the overflow crowds and the gavel-to-gavel media coverage, the 84-year-old Utah Republican observed, was “the most intense public scrutiny I’ve seen for a tech-related hearing since the Microsoft hearing.”
+Twenty years ago, the tech titan in the Senate hot seat was another Harvard dropout, Bill Gates, co-founder and chief executive of Microsoft. At the time, Microsoft was the most feared corporate powerhouse in America, and the target of government investigations for uncompetitive practices. Mr. Gates was its fearless leader — and he made it clear that he wouldn’t change his ways for Washington.
+But that didn’t end well for the company. A few months after Mr. Gates appeared on Capitol Hill, the federal government and 20 states sued Microsoft in a landmark antitrust case. The company lost at trial, and not long after started to lose its dominance.
+If Mr. Zuckerberg’s conciliatory performance in front of multiple congressional committees was any guide, he took the history lesson to heart. It also showed how many debates about the technology industry have evolved from traditional antitrust issues to more complex issues like privacy and the companies’ role in democracy.
+Advertisement
+When Mr. Gates testified in Congress, there was no tone of compromise or conciliation. Mr. Gates, then 42 and the richest person in America, dressed appropriately if uneasily in a gray suit. He appeared before the Senate Judiciary Committee, chaired by Mr. Hatch, in a four-hour hearing, sharing the day with five other tech executives, including two industry rivals. But Mr. Gates was the day’s main event in a hearing called to examine “whether Microsoft is abusing its market power.”
+Advertisement
+Mr. Gates used the forum to explain Microsoft’s role at the forefront of an “industry that has revolutionized the world in only 25 years.” At times, he seemed to be lecturing the less intelligent. And any criticism of Microsoft he seemed to regard as a personal attack. “What do you mean me, too?” he snapped at one point.
+The policy issue, according to Mr. Gates, was clear: “Will the United States continue its breathtaking technological advances?” T he question “can be answered resoundingly yes — if innovation is not restricted by government,” he said.
+“As I hope my testimony today has made clear, the computer software industry is not broken, and there is no need to fix it,” Mr. Gates said.
+He wasn’t alone. The company’s leadership could be downright belligerent in its public statements. At a company event, Steve Ballmer, then a top executive and later Microsoft’s chief executive, made a memorable personal attack on the attorney general of the United States.
+“To heck with Janet Reno,” Mr. Ballmer said, a sentence that still makes current and former Microsoft executives cringe two decades later.
+A spokesman for Microsoft declined to comment, as did representatives for Mr. Gates and Mr. Ballmer.
+It was clear from the start of Mr. Zuckerberg’s testimony that he had arrived in Washington with a different message. Shedding his hoodie for a suit, and intensively coached, he appeared humbled and deferential to his congressional interlocutors, even when facing the types of technically unsophisticated questions that easily vexed Mr. Gates during his time in the hot seat.
+Mr. Zuckerberg, 33, apologized repeatedly for not doing enough to halt the issue at hand — the spread of misinformation on Facebook and the unauthorized use of personal data by outside firms.
+Advertisement
+“We didn’t take a broad enough view of our responsibility, and that was a big mistake,” he said. “It was my mistake, and I’m sorry.”
+Mr. Zuckerberg even said several times that he was open to new regulations aimed at his company, without committing to any particular approach.
+The difference was clear, said Senator Richard Blumenthal, a Democrat from Connecticut, who has seen both Facebook and Microsoft up close. He questioned Mr. Zuckerberg in Congress, and in the 1990s, as Connecticut’s attorney general, he helped lead the states’ antitrust assault on Microsoft.
+“Facebook has already taken very much to heart the clear lessons of Microsoft, which is to engage fully and aggressively in dialogue with federal powers,” he said by phone. “Microsoft basically refused to have any real conversations with D.O.J. or the states before we filed suit. Essentially, it stonewalled negotiations before there was a judgment by the courts.”
+Asked if the example of Microsoft had guided any of Facebook’s strategy in dealing with federal powers, a Facebook spokeswoman said, “As Mark told Congress, we made mistakes and we’re taking action to make sure that they don’t happen again.
+“Everything we’re doing has been guided by the understanding that we need to do better,” the spokeswoman, Vanessa Chan, added.
+By March 1998, when Mr. Gates appeared in Congress, Microsoft seemed all but invincible, its market dominance and ambitions at their peak. It had made forays into online commerce, media and advertising, and executives in one industry after another anxiously awaited the company’s next move.
+Bankers raised the specter of a new online rival: The First National Bank of Redmond they called it, referring to Microsoft’s headquarters in Redmond, Wash. Rupert Murdoch declared that the company he feared most was Microsoft. Microsoft had its own online magazine, Slate, as well as newsroom and programming studios, and it joined forces with NBC to help start MSNBC.
+Advertisement
+The first internet boom was also in full swing, and Microsoft’s Windows software — the operating system on 90 percent of the world’s personal computers — controlled that gateway to the future with its browser, Internet Explorer.
+But there was an insurgent in Microsoft’s world, the Silicon Valley start-up Netscape, creator of the first commercially successful internet browser. The browser had the potential to be the on ramp to the internet, undermining Windows. Microsoft portrayed Internet Explorer as a mere feature of its operating system. The software giant was intent on winning the “browser war” with Netscape, using every weapon it had to squelch the upstart.
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+View all New York Times newsletters.
+The federal government and several states investigated Microsoft’s behavior. Years of tangles with competition regulators in Europe followed, along with a string of private antitrust lawsuits.
+After it lost the federal antitrust case in America, Microsoft, with little choice, sued for peace, spending billions of dollars in settlements and fines. It submitted to monitors who would file regular reports on the company’s compliance with its settlements. Several years later, Mr. Gates gave up day-to-day control of the company and became the country’s leading philanthropist.
+“The view was that government was irrelevant and we can do anything we want,” said David Yoffie, a professor at the Harvard Business School, who has studied Microsoft for years. “There was little respect for government, and that was the culture inside Microsoft at the time.”
+Today, Facebook finds itself squarely in the public spotlight, but confronting a different set of policy challenges.
+The concern about Microsoft was economic. Consumers might pay somewhat higher prices, but mainly they would suffer because future innovations would be thwarted.
+Facebook is under attack because of privacy concerns, its data-handling practices and its vulnerability to be used by others to spread lies, hatred and political propaganda. The main worry is that the social network is being manipulated to shape human behavior. And Facebook’s data harvesting and the potential impact are far more personal than anything Microsoft did.
+Tom Rubin, a former senior lawyer at Microsoft who is now a lecturer at Stanford University, sees many parallels between the government scrutiny of Microsoft and of Facebook, which he discussed with a class on tech policy at the school this past week.
+Advertisement
+“They both involve an allegation that a digital gatekeeper, with insufficient internal controls, drove for dominance by harming the ecosystem in which it operates,” said Mr. Rubin, who was an assistant United States attorney before joining Microsoft.
+But the stakes now, he said, are higher than in the days when the public was still figuring out how to get onto the internet. “Competition in the marketplace for browsers pales in comparison to protecting personal privacy and a functioning democracy,” Mr. Rubin said. “It’s hard to conceive of a higher priority for legislators and regulators than that.”
+One risk for Facebook could come from an emerging group of antitrust experts who advocate expanding the definition of consumer welfare beyond pricing and innovation, to include the impact on workers, small retailers and privacy. The German antitrust authorities are pursuing a case against Facebook alleging that its market dominance essentially forces users to accept a service that violates their privacy.
+But that approach, most experts say, is a stretch, particularly in the United States.
+“The idea is that they’re big, so antitrust should be used to address the problem,” said Andrew I. Gavil, a law professor at Howard University. “But if you’re looking for a privacy remedy, antitrust is not the right tool.”
+An alternative threat is much stricter privacy regulation, following the European lead. The European Union’s General Data Protection Regulation, which goes into effect next month, is far more restrictive than data collection and trading practices in America. It requires companies to collect and store only the minimum amount of user data needed to provide a specific, stated service.
+In the United States, that would mean stronger laws and more resources for privacy and data-protection enforcement by the Federal Trade Commission and states.
+“That is arguably a much more effective solution to this kind of problem — get the privacy regime right,” said William Kovacic, an antitrust expert at the George Washington University Law School and a former chairman of the F.T.C.
+But like the antitrust concerns, any major overhaul of privacy law in Washington appears unlikely anytime soon.
+Advertisement
+Still, the smart move for Facebook, said A. Douglas Melamed, who was a senior antitrust official in the Justice Department during the Microsoft case, would be to depart from the old Microsoft playbook of resistance and embrace new, tougher rules on privacy and data-handling practices — and help guide them.
+“That would move the conversation away from ‘Are these bad guys?’ to ‘How can we work together to solve these problems?’” Mr. Melamed, a professor at Stanford Law School, said. “And if Facebook really does that, Mark Zuckerberg is likely to get answers he can live with and that actually might be helpful.”
+What Facebook wants to avoid, said Charles Fitzgerald, a former Microsoft strategist who is now an angel investor in tech start-ups, is what happened to Microsoft: The double whammy of government and legal entanglements and a stock price in the dumps had consequences for Microsoft’s ability to hold on to talent.
+Facebook, he said, could see the same phenomenon if its growth slows and employees tire of oversight and constant attacks on the company’s reputation.
+“The combination of a flat or declining stock price and having to spend lots of time on miserable legal issues instead of building product made a lot of people rethink how they wanted to spend their days,” Mr. Fitzgerald said. “And Facebook employees may have a harder time gazing in an ethical mirror.”
+A version of this article appears in print on April 15, 2018, on Page BU3 of the New York edition with the headline: In Washington, a Tale of Two Tech Giants.  Order Reprints| Today's Paper|Subscribe
+
+
+We’re interested in your feedback on this page. Tell us what you think.
+Go to Home Page »

@@ -1,0 +1,106 @@
+PAID FOR AND POSTED BY JUNIPER
+How a
+Hacker
+Hacker
+Hacker
+Will
+Save You
+and Your
+Business_
+8.4 Billion
+The estimated number of Internet of Things (IoT) devices in the world today. 1
+Shyama Rose is convinced she knows why the world is paying more attention to digital security. “When it starts applying to people more on a personal level, they start thinking about it differently,” she says, from her office in San Diego.
+As the chief information security officer at Avant, an online lending platform, Rose has an encyclopedic knowledge of the digital world. That knowledge is the result of a journey that brought her to understand exactly what digital security could mean to her on a personal and eventually a professional level. What’s now a career for the 30-something tech wiz was once simply an innocent way to escape.
+When she was a child, she moved to an ashram outside Austin, Texas. “It was a weird time in Texas in the '90s,” she recalls, drawing a comparison between Warren Jeffs’s Fundamentalist Church of Jesus Christ of Latter-day Saints sect and David Koresh’s Branch Davidian compound. “There were all sorts of weird societies popping up.”
+8.4 Billion
+The estimated number of Internet of Things (IoT) devices in the world today. 1
+She was stuck in one herself, with a spiritual leader who would eventually end up on the run from the law. In the meantime, Rose found ways to mentally escape. “I started with computers, reverse engineering and taking things apart; breaking them and putting them back together, as a mental and creative outlet to my environment growing up,” she explains.
+At the time she didn’t really know what hacking was. The escape into the world of hardware and software unleashed something in her. After finding groups of people who shared similar interests, she realized there might be a way to turn her passion into a profession. Her journey from the ashram to college then through elite security forums and a few boutique security firms makes for a fascinating story about how Shyama Rose and many other former hackers have come to use their powers for good.
+</>
+Fighting
+_
+Fighting
+_
+History
+_
+History
+_
+$2.1 Trillion
+Projected global cost of cybercrime by 2019. 2
+The early 2000s were a wake-up call when it came to cybercrime. Initially, companies weren’t thinking about security at all. It was in this era that cybersecurity problems became more apparent as several notable viruses began circulating the internet.
+In 2003, the “Slammer” virus wreaked havoc around the world, shutting down airline ticketing systems, leaving tens of millions without mobile phone service and crippling public utilities. This was but one example of the impact an out-of-control virus could have on the global economy. The upcoming era would keep enterprises and governments on their digital toes.
+$2.1 Trillion
+Projected global cost of cybercrime by 2019. 2
+These disruptions became the catalyst that made companies consider hiring security experts to protect data. Still, companies weren’t keen on letting those who knew hacking best – the hackers – walk through the door.
+Rose feels hackers were, and still are, misunderstood – and doesn’t even like the word “hacker.” She thinks of them as subject matter experts and prefers to describe them as “people who are interested in technology.”
+That sounds like an oversimplification, but it does give a different perspective on a certain type of expert that many people typically pigeonhole as nefarious. “To me, hackers are just creative people that do stuff with technology, whether it be for bad or for good,” Rose says. Given the right motivations, these are the very people who can help big organizations or internet service providers get ahead of criminals.
+In recent years, cybercrime has changed dramatically. Internet of Things (IoT) devices – the proliferation of smartphones and digital tools at work and home – have all led to many vulnerabilities in our personal and professional lives.
+It used to be that a firewall, or a virtual barrier, was enough to protect a network that typically had one or two entry points. Now every device connected to a network is a potential way in.
+“Take the already pretty nasty security problem and multiply that by however many billions more devices are going to go on all these networks,” says Matt Jolly, senior IP solutions architect at Clearwater, Florida–based Vology, a provider of IT management at more than 32,000 customer sites in sectors that include banking, education and health care.
+For these institutions the simplest of devices can be a vulnerability. For example, a hacker might intentionally drop a USB drive outside the headquarters of a public utility or health care provider. If someone who works in the building picks it up and plugs it into their office computer, the hacker can easily gain access to an enterprise’s network from the inside. This could mean huge breaches in security and private information.
+To stem these threats, employees need to know that the risk can come from literally anywhere, says Jolly: “There’s still a tremendous amount of education that needs to go on to get people to understand how real the risk is.” It’s these sorts of attacks that experts like Jolly and Rose spend much of their time thinking about, often worried that an employee will just let a hacker right through the door, so to speak.
+</>
+Picking
+_
+Picking
+_
+Sides
+_
+Sides
+_
+More than $1.3 million
+The price the U.S. government paid to gain access to software that allowed it to hack into the iPhone of a suspected terrorist. 3
+Rose and her security cohort are on a mission every day. Many of them, able to infiltrate just about any system, choose their ethics wisely and prove the deeply-seated stereotypes wrong.
+Terry Cutler is a Montreal-based security analyst who admits, “I get temptations all the time. I'll be doing a certain job for a couple thousand dollars, whereas people in ransomware are making millions, or hundreds of thousands of dollars at a time.”
+More than $1.3 million
+The price the U.S. government paid to gain access to software that allowed it to hack into the iPhone of a suspected terrorist. 3
+There is even a thriving market for software that will exploit flaws in a system that its creator doesn’t know about. Such software can fetch millions of dollars if a buyer thinks it’s worth the price.
+Sometimes a hack starts with a criminal looking to break into a bank’s network. Other times a hack might come from a government agency, deep in the throes of an investigation, trying to access information that it otherwise can’t. The line between good and bad, it seems, is forever moving.
+Cutler often works with investigations that ultimately lead to criminal search and seizure orders and knows the consequences if he were to use his skills for nefarious purposes. “I don’t want to wake up every morning looking over my shoulder,” he says.
+He and Rose are part of a growing community of ethical, digitally inclined minds that are bringing more security to the ever-growing digital networks around us.
+</>
+Security
+_
+Security
+_
+is More
+_
+is More
+_
+Than an
+_
+Than an
+_
+Overlay
+_
+Overlay
+_
+</>
+Security is
+_
+Security is
+_
+More Than
+_
+More Than
+_
+an Overlay
+_
+an Overlay
+_
+47.7%
+The number of hacks that were phishing-related in the first half of 2017. 4
+One thing that becomes apparent when you speak to a modern-day security analyst is that they view security as an approach, not simply a switch to flip. “Security is best implemented through culture,” Rose says, explaining that a human’s perception of how to tackle a threat is the strongest defense. “It’s a little bit more preemptive than installing a patch.”
+47.7%
+The number of hacks that were phishing-related in the first half of 2017. 4
+While modern threats have indeed evolved, the biggest worries are the easy ones. People aiming to cause trouble are looking for simple, inexpensive entry points, such as the USB example. In many cases “social engineering” is a criminal’s easiest way in. This can include “phishing” (fraudulent emails meant to look as though they're from reputable people or organizations) or someone physically approaching a company employee who isn’t security savvy.
+Cutler recalls a time when he was hired by a retailer to test the enterprise’s digital security. He went to one of its stores, approached a sales associate and simply said he was there from the company’s IT department. “Nobody asked who we were or what we were doing there. In about three hours, we compromised the entire company, including creating my own access code to enter the building,” he says. This is why securing a network is as much about a cultural mindset as it is about having the right infrastructure and virtual monitoring.
+ The Right People in the Room
+Over the course of a conversation with Rose, the theme of simplicity comes up a few times. Part of it is just how she breaks things down – how she makes things you’d presume to be complicated easy to understand.
+She poses the idea that security starts with basic hygiene, which is the equivalent of putting on your seatbelt and brushing your teeth. Beyond that, it’s about finding a partner that knows how to detect threats and defend a network.
+While Rose is tasked with educating her team about the cultural side of security, she also manages a critical relationship with Juniper Networks, which provides IT support and network solutions for Avant and its online lending platform.
+The financial services industry is but one focus for cybercriminals. Also in their crosshairs are public utilities and the health care industry. Finding the right security analytics capabilities and IT partners is key in these sectors. In Avant’s case, one such partner is Juniper Networks.
+Juniper and Rose’s team are in a unique partnership that works around-the-clock to keep the Avant network updated and able to thwart threats. “When I'm doing my job properly, I don't have much to show for it,” says Rose, jokingly. A good day, in this world, is when nothing exciting happens. It’s a far cry from her teenage days on the ashram, breaking things and putting them back together.
+While she can rest easy knowing she’s landed on the right side of the law, the stress of the job and all the things that could go wrong keep her up at night. Maybe that’s why she’s taken up competitive skydiving in her free time. After all, she still needs her escape.
+The news and editorial staffs of The New York Times had no role in this post's preparation.
+Go to Home Page »

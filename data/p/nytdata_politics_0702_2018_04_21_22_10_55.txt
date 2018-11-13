@@ -1,0 +1,276 @@
+Advertisement
+
+
+ Farhad Manjoo
+ 
+
+
+STATE OF THE ART
+SEPT. 6, 2017
+
+Silicon Valley has long preferred to remain aloof from national politics, but the Trump era has altered that stance.
+In recent months, tech luminaries have repeatedly clashed with the president, criticizing his executive order on Muslim immigration, his ban on transgender troops, his “many sides” equivocation on white supremacists and his Tuesday announcement that he was ending the Deferred Action for Childhood Arrivals program, which lets young undocumented immigrants remain in the country.
+A politically awakened Silicon Valley, buttressed by the tech industry’s growing economic power, could potentially alter politics long after President Trump has left the scene. But if the tech industry becomes a political force, what sort of policies will it push?
+A new survey by political scientists at Stanford University suggests a mostly straightforward answer — with one glaring twist. The study is the first comprehensive look at the political attitudes of wealthy technologists, whose views have long been misunderstood to the point of caricature by many outside the industry. The findings of the study, which is currently under peer review, were presented last week to the annual meeting of the American Political Science Association.
+Advertisement
+The survey suggests a novel but paradoxical vision of the future of American politics: Technologists could help push lawmakers, especially Democrats, further to the left on many social and economic issues. But they may also undermine the influence of some of the Democrats’ most stalwart supporters, including labor unions. And they may strive to push Democrats away from regulation on business — including the growing calls for greater rules around the tech industry.
+Advertisement
+Over all, the study showed that tech entrepreneurs are very liberal — among some of the most left-leaning Democrats you can find. They are overwhelmingly in favor of economic policies that redistribute wealth, including higher taxes on rich people and lots of social services for the poor, including universal health care. Their outlook is cosmopolitan and globalist — they support free trade and more open immigration, and they score low on measures of “racial resentment.”
+
+            As it turns out, not really. According to a recent survey, they don’t mind being taxed, but do mind having the government meddle in their business. Less than one quarter of them identify with being a libertarian and almost two thirds of them agree with “the government should not tightly regulate business, and should tax the wealthy to fund social programs.” This position uniquely resembles neither Democrats nor Republicans.        
+Percentage
+of survey
+respondents
+Technology
+founders
+Democrats
+Republicans
+Agree with
+libertarian
+philosophy*
+44%
+63%
+24%
+Do regulate
+and do
+redistribute
+54%
+29%
+18%
+Don’t regulate
+and do
+redistribute
+36%
+35%
+62%
+Do regulate
+and don’t
+redistribute
+6%
+9%
+3%
+Don’t regulate
+and don’t
+redistribute
+4%
+27%
+18%
+Percentage of
+survey respondents
+Technology
+founders
+Democrats
+Democratic
+donors
+Republicans
+Republican
+donors
+Agree with
+libertarian
+philosophy*
+44%
+5%
+63%
+68%
+24%
+Do regulate and
+do redistribute
+18%
+54%
+67%
+29%
+3%
+Don’t regulate and
+do redistribute
+62%
+36%
+38%
+35%
+21%
+Do regulate and
+don’t redistribute
+3%
+6%
+1%
+9%
+2%
+Don’t regulate and
+don’t redistribute
+18%
+4%
+2%
+27%
+75%
+Percentage of
+survey respondents
+Technology
+founders
+Democrats
+Democratic
+donors
+Republicans
+Republican
+donors
+Agree with
+libertarian philosophy*
+5%
+63%
+69%
+44%
+24%
+Do regulate and
+do redistribute
+18%
+54%
+63%
+29%
+3%
+Don’t regulate and
+do redistribute
+62%
+37%
+35%
+35%
+21%
+Do regulate and
+don’t redistribute
+3%
+6%
+1%
+9%
+2%
+Don’t regulate and
+don’t redistribute
+18%
+4%
+2%
+27%
+75%
+On most culture-war issues, they are unrepentantly liberal. They oppose restrictions on abortion, favor gay rights, support gun control and oppose the death penalty.
+Now for the twist. The study found one area where tech entrepreneurs strongly deviate from Democratic orthodoxy and are closer to most Republicans: They are deeply suspicious of the government’s efforts to regulate business, especially when it comes to labor. They said that it was too difficult for companies to fire people, and that the government should make it easier to do so. They also hope to see the influence of both private and public-sector unions decline.
+“You would think that people with enough money to influence the political system would obviously use that influence to increase social and economic inequality in ways that benefit them,” said David Broockman, an assistant professor of political economy at Stanford’s Graduate School of Business and a co-author of the study.
+“What’s surprising to us,” he continued, “is that you could find this group that says, ‘Actually, our taxes should go up and more money should go to things like universal health care, or that we should do more to protect the environment’ — but at the same time believes that regulations and labor unions are a problem.”
+Dr. Broockman conducted the study with Neil Malhotra, a political scientist at Stanford, and Greg F. Ferenstein, a journalist who worked on an initial version of the survey in 2015.
+The researchers deliberately chose to examine what they call the tech industry’s “elites” — not rank-and-file workers, but the millionaire and billionaire founders and executives who are best positioned to influence politics. The study is based on a detailed survey of more than 600 such elites around the country (only about a third are in the Bay Area) conducted in February. The researchers also surveyed Republican and Democratic donors and voters for comparisons.
+Advertisement
+The researchers were interested in the tech elite because the politics of Silicon Valley have always been something of a mystery. Many of Silicon Valley’s pioneers initially thought of themselves more as freewheeling revolutionaries than as capitalists bent on global economic domination. They were hippies and draft resisters, as enthusiastic about LSD as about microprocessors, and they brought to their work the tenets of the counterculture.
+
+            Yes. And a majority of them think that labor unions should have less influence.        
+Percentage
+of survey
+respondents
+Democrats
+Republicans
+Technology
+founders
+Uber surge
+pricing fair
+42%
+51%
+94%
+Florists raising
+prices on
+holidays fair
+36%
+41%
+97%
+Would like to
+see private
+labor unions
+have more
+influence
+65%
+47%
+24%
+Percentage of
+survey respondents
+Technology
+founders
+Democrats
+Democratic
+donors
+Republicans
+Republican
+donors
+Uber surge
+pricing fair
+42%
+65%
+51%
+80%
+94%
+Florists raising prices
+on holidays fair
+36%
+79%
+41%
+95%
+97%
+Would like to see
+private labor unions
+have more influence
+65%
+84%
+47%
+6%
+24%
+Percentage of
+survey respondents
+Technology
+founders
+Democrats
+Democratic
+donors
+Republicans
+Republican
+donors
+Uber surge pricing fair
+42%
+65%
+51%
+80%
+94%
+Florists raising prices
+on holidays fair
+36%
+79%
+41%
+95%
+97%
+Would like to see
+private labor unions
+have more influence
+65%
+84%
+47%
+6%
+24%
+But by the 1990s, with the advent of the World Wide Web and the beginning of the tech industry’s march to the apex of the world’s economy, another Silicon Valley political narrative took root: techies as unapologetic libertarians, for whom the best government is a nearly nonexistent one. You can see this strain in “A Declaration of the Independence of Cyberspace,” the tech activist John Perry Barlow’s warning that the world’s governments enjoyed “no sovereignty” over the internet.
+The idea that techies favor an Ayn Randian worldview hardened into a trope last year when the investor Peter Thiel, one of Silicon Valley’s few actual libertarians, parted with most others in tech to back Mr. Trump.
+The Stanford study thoroughly debunks the idea that tech is lousy with libertarians. The researchers asked respondents whether they agreed or disagreed with this statement: “I would like to live in a society where government does nothing except provide national defense and police protection, so that people could be left alone to earn whatever they could.”
+Fewer than a quarter of the tech elite agreed with that view. Democrats were almost twice as likely to agree, and Republicans agreed by huge margins.
+But if they’re not libertarians, what accounts for techies’ opposition to regulation? One idea might be that it’s driven by self-interest. A large fraction said they opposed regulating car-sharing services as if they were taxis, for instance; to the extent that the tech elite have a lot of money riding on the sharing economy, they may worry that regulation of such companies could hurt their wallets.
+Yet the survey also shows that tech elites are generally willing to support other policies that go against their interest. Huge majorities supported increasing spending on programs that only benefit the poorest Americans, as well as increasing taxes on people who earn more than $250,000 per year.
+To tease out whether self-interest was at play in their views on regulation, surveyors asked a question about Uber’s surge-pricing policy, which increases prices during periods of peak demand. But the researchers disguised it with a business unrelated to tech: “On a holiday, when there is a great demand for flowers, sellers usually increase their prices. Do you think it is fair for them to raise their prices like this?”
+The Bits newsletter will keep you updated on the latest from Silicon Valley and the technology industry.
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+View all New York Times newsletters.
+A majority of Democrats and Republicans said it would be unfair for a florist to do that. But 96 percent of the tech elite thought it would be fair.
+Advertisement
+“My guess is there’s an underlying principle to their views,” Dr. Broockman said. “They see an entrepreneur trying to do what they want in the marketplace, and they see nothing unfair about that.”
+The tech elite’s mix of views is unique; no other group in the survey favored both greater wealth redistribution and laxer regulation. It is genuinely difficult to think of any politician who aligns with that mix.
+So I called up Ro Khanna, a Democratic congressman elected to represent a large swath of Silicon Valley last year. Like his constituents, Mr. Khanna supports redistributive economic policies. He’s working on a bill that calls for a $1 trillion expansion of the earned-income tax credit, and he supports opening up Medicare for anyone who wants it.
+But Mr. Khanna is no opponent of regulation. He has favored greater enforcement of antitrust laws, and recently said he was “deeply worried” about Amazon’s purchase of Whole Foods. When I asked him about the survey’s findings on techie views of labor unions, he was adamant that he didn’t share them.
+“I’ve always been a very strong supporter of labor,” he said.
+But the Stanford researchers suggest that over time, given technologists’ money and influence over media, they may have the power to subtly alter Democratic lawmakers’ views. Indeed, that may already be happening — already, the researchers said, the Democratic Party looks far less interested in curbing the tech industry’s reach than it once did.
+Consider that President Bill Clinton’s Department of Justice waged a major war against Microsoft’s market power. Just a decade later, the next Democratic president, Barack Obama, took little interest in stemming tech giants’ growing clout.
+“There’s one obvious difference between those time periods,” Dr. Malhotra said. “That difference is the rising influence of the technology industry in politics.”
+Email: farhad.manjoo@nytimes.com; Twitter:@fmanjoo
+A version of this article appears in print on September 7, 2017, on Page B1 of the New York edition with the headline: Tech’s Giants Skew Liberal, With a Twist.  Order Reprints| Today's Paper|Subscribe
+
+
+We’re interested in your feedback on this page. Tell us what you think.
+See More »
+Go to Home Page »

@@ -1,0 +1,57 @@
+PAID FOR AND POSTED BY DELTA TECH
+Hartsfield–Jackson Atlanta International Airport is the busiest airport in the world. Every day, there are more than 2,500 arrivals and departures, carrying 275,000 passengers to destinations around the globe. The scale is vast and technically complex, but airlines know their core objective: to get passengers safely from point A to B as quickly and comfortably as possible. And Atlanta’s is just a tiny fraction of the massive global network that is modern aviation.
+
+Across the U.S., more than 2.2. million airline passengers travel each day. And globally, about 1.5 million of us move through the sky on the busiest travel days. Put simply, more people are flying than ever before. Yet airlines have still struggled to modernize, some using systems and protocols that have been in place for decades. As competition between airlines increased, prices dropped and flying was suddenly more available to the masses. Despite the wonder of flight becoming more accessible — thanks to lower prices and increased service — customer experience still leaves something to be desired.
+
+But according to industry professionals and tech-industry experts, change is coming. By approaching the travel experience in a similar way to how UX experts develop creative solutions, one airline is hoping to make flying more efficient, change the way we think about the airline industry and excite passengers once again.
+
+According to Ben Woods, professor of UX design at Kent State University, to improve passenger experience, airlines need to shift from an engineering mindset to one based in the principles of UX — a broad term for how people interact with a product. “Typically engineering problems are well behaved,” says Woods. “They're well bounded and they work predictably. But whenever you bring people in, they have their own motivations and ways of working.”
+
+Woods says that good UX  means taking human nature into account. “What we try to do is engineer and design processes, systems and interfaces around the way people work,” he says. “It's a competitive tool for our clients and for our customers.”
+
+Usually, UX is applied to websites or apps which are inextricably linked to Silicon Valley and the tech industry. But a traveler’s airport behavior is quite similar to how someone might navigate an app on their phone. Both involve having a goal that users (or passengers) need to accomplish as easily as possible.
+
+Vishaan Chakrabarti is a professor at Columbia University and founder of a firm called the Practice for Architecture and Urbanism. According to him, travel anxiety is often caused by uncertainty: “A flight is delayed, a flight gets canceled and you don't know why, you don't know what the next step is.” Part of creating a good user experience is filling in those gaps. “The more knowledge we have when we travel, the more secure we are in understanding what's happening,” he says.
+
+When it comes to air travel, like any customer service experience, it’s more likely that passengers remember a negative experience than a positive one. But it’s these pain points that provide the launch pad for ways airlines can improve their UX. “If we design systems around the way people behave, they're more likely to use and adopt those systems,” says Woods. “I think the big challenge for airports is the level of comfort has really gone down and stress has also gone up. You're in an environment that you're not familiar with.”
+
+At Delta Air Lines in particular, a sea change has already started to take hold. Delta’s global innovation center is a research and development group tasked with advancing the airline's most forward-thinking initiatives. Housed in an office dubbed “The Hangar” at Georgia Tech's Advanced Technology Development Center (ATDC), the vibe is more reminiscent of a startup than an airline with 80,000 employees. Flow charts that track passenger journeys cover the walls and prototypes are strewn across desks. You might find people experimenting with a mobile gate interface in one room while another group discusses biometric screening nearby.
+
+“We talk to professors and academics, we talk to the researchers that work for the Georgia Tech Research Institute,” says Willy Barnett, Ph.D., a Delta employee who oversees much of the operations work that goes on at The Hangar. “With all the other groups in this building and around, it's a thriving area for innovation.”
+
+To speculate about the future is one thing, but the execution is another. The trick is finding the human side of travel. “We use empathy as one of our core focuses,” he says. “Let’s put ourselves in the shoes of the person who's experiencing these pain points. Talk to other passengers, talk to employees. Talk to everyone and try to really get the full gist of the story.”
+
+As the chief design officer at the consultancy Hedgehog Lab, Ray Clarke specializes in “post-PC technology” — a term used to describe future-forward tech like augmented and virtual reality. According to Clarke, part of building a better travel experience is thinking about the difficulties specific to airports. By thinking about travel from a UX perspective, Clarke believes airlines will consider these anxieties in a new way.
+
+Clarke sees the future of travel as a “concierge kind of experience,” where passengers are constantly reassured as they move through the space, something that the Fly Delta app already does. “If you want somebody to get from terminal one to terminal seven, help them get there by clear, concise, large arrow descriptions on the device,” says Clarke. “You want to really guide them by the hand and take them there.”
+
+According to Rachel Abrams, Associate Principal at Arup, a United Kingdom-based design and engineering consultancy, the best designs work smoothly for the people moving through a space, as well as those working behind the scenes. “Whether it's transit, airports, educational campuses, transportation networks, designers are thinking about people first,” says Abrams. “They're often observing behaviors, practices and the culture of interaction before they start to design experiences.”
+
+She sees the objective of designers as twofold. “One is to do the work in a way that's so seamless in the outcome for passengers ... that they're not necessarily even aware that you were there,” she says, referring to employees working behind-the-scenes. And second: “To really align those design aspirations with the business goals of the organization.” She says if both are achieved, passengers are happy and systems can operate smoothly.
+
+These thoughts echo much of what Delta has already begun putting into place. At Hartsfield–Jackson, staff in red blazers — colloquially called “Red Coats” — use smartphone-like devices that do much of the work once handled by a desktop computer. If a traveler is confused or needs assistance, Delta employees can walk right up to them and help them from the floor of the airport — no podium or monitor required.
+
+It’s an advancement that’s been a long time coming. Delta’s new digital platform replaced an archaic system that was used for nearly half a century, from 1965 until 2014. “It was 2014 and we were requiring agents to know complex command inputs — that’s crazy,” says Jesse Adams, an ACS field support manager at Delta Air Lines. These commands were computer language, or code, that Delta employees would use to communicate with the system. It’s also the sort of technological advancement that follows the principles of good UX: Passengers are dealt with on an individual basis and congestion is reduced. And if they need additional help, travelers can make face-to-face video calls on one of Delta’s help terminals, which are being tested at DCA.
+
+Delta’s self-service biometric bag drop technology, which is in a testing phase at MSP, dramatically expedites the time it takes to check in luggage (travelers can choose to use a machine that scans their face for a match with their passport photo). And Delta is the first airline to partner with CLEAR, a biometrics company that helps passengers speed through security lines using only a fingerprint scan for a paid membership.
+
+“We're currently using it in Delta Sky Club and for boarding [in Washington D.C.],” says Chip Houck, an IT manager at Delta. “The idea there is for you to be able to put your fingerprint on the scanner and then it green-lights you into the club or onto the aircraft.” The goal is that optional biometric identification could be used for bag drop or self-boarding as well.
+
+The airports of the future will embrace the design principles of tomorrow. “We just launched a gates and boarding redesign test, which is a redesign of the boarding and the layout [of the gate area] itself,” says Alan Janbay, manager of Airport Customer Experience and Product Development at Delta. Janbay sees a future where agents roam with handheld devices untethered from hardware and millwork to engage more meaningfully with customers. “We’re working towards a seamless and stress-free gate experience customized to enable work, rest or play and a boarding process that is more personal with fewer barriers.”
+
+Among the new advancements is a self-boarding procedure using e-gate technology that improves speed and efficiency for customers and agents alike. The team is also exploring several concepts aimed at solving other boarding challenges. Process automation will empower customers to control their own travel experience and give employees more opportunity to focus on hospitality-oriented and personalized services. Bottlenecks, uncertainties and the transactional nature of today’s experience will be a thing of the past. It’s a laundry list of advances that are just on the cusp of reality.
+
+But change is becoming the norm.  Self-service bag drop has rolled out for Delta customers at Minneapolis–Saint Paul International Airport and users are speeding through security lines with CLEAR at LaGuardia. Progress may not be a straight line, but the UX of travel is looking better all the time.
+
+MINH TRAN
+@thismintymoment
+MINH TRAN
+@thismintymoment
+The airport of the future is here! –Recently, I was able to check in my luggage with @Delta self-service baggage drop-off that uses facial recognition. It was so convenient and took only minutes to complete. This technology is going to be a game changer!
+
+Learn how a remarkable partnership with the airline industry helped make Atlanta a global hub for culture and commerce.
+From biometric identification to self-service bagdrop technology, learn how tomorrow’s airports will revolutionize travel.
+Learn how a remarkable partnership with the airline industry helped make Atlanta a global hub for culture and commerce.
+From biometric identification to self-service bagdrop technology, learn how tomorrow’s airports will revolutionize travel.
+The news and editorial staffs of The New York Times had no role in this post's preparation.
+Go to Home Page »

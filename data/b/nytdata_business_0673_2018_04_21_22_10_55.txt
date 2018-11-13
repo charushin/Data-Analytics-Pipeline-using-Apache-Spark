@@ -1,0 +1,56 @@
+Advertisement
+Follow Us:
+Get the Upshot in your Inbox
+
+
+
+Neil Irwin
+
+
+
+@Neil_Irwin
+
+APRIL 28, 2017
+
+Corporations are people, Mitt Romney once told us. But if the Trump administration’s tax plan were to become law, in the future a whole lot of people may just become corporations.
+That’s because of a huge loophole implied by the broad tax ideas the administration recently released. Unless revised in actual legislation, the plan would give millions of Americans the opportunity to cut their taxes by essentially turning themselves into small business entities.
+This mind-bending curiosity of the tax code could undermine the very idea of a job as we know it — or, arguably, accelerate a shift that has been underway for years.
+The opportunity to game the system arises from the huge gap between the tax rate paid on individual income — up to 39.6 percent now, or 35 percent under the Trump plan — and the low rate on business income the president proposes, of 15 percent. He seeks to apply that rate to all businesses, including “pass-through” organizations such as limited liability companies and S corporations, and that is where the opportunity for games arises.
+Advertisement
+For example, I am currently an employee of The New York Times, paid a salary every two weeks to write articles about economics. My earnings are labor income; I happen to be in the 28 percent tax bracket.
+Advertisement
+Suppose I instead formed Irwin Scribblings L.L.C., a “company” dedicated to providing economics writing services. Irwin Scribblings could then contract with The Times to provide articles about economics for a rate equivalent to the value of my current salary and benefits.
+Under current law, I would pay the same taxes on that business income that I do on personal income. In important ways I would be worse off, as I would need to pay more of my own payroll taxes, wouldn’t have unemployment insurance, and would need to get health insurance through some channel other than my employer.
+But under the Trump tax plan, my tax rate would fall to 15 percent from 28 percent, saving thousands of dollars a year — enough to justify those annoyances.
+Higher earners have even more to gain from this trick. Many of the costs attached to paying an accountant or a lawyer to set up the structure are fixed, perhaps on the order of several hundred dollars, whereas the potential gains are unlimited and rise with one’s income. And of course people in higher tax brackets gain more from reducing their rate to 15 percent.
+This is no abstraction. After Kansas eliminated its state tax on pass-through income, the number of people taking advantage of the exemption soared, leading to hundreds of millions of dollars in lost revenue for state coffers.
+Pass-through entities include a variety of corporate structures with one thing in common. They do not pay federal income tax directly, but rather pass their earnings along to their owners, who in turn pay individual income tax on the money. That avoids the problem of double taxation faced by C corporations (the structure most commonly used by the biggest companies), which pay the corporate income tax directly and whose investors must pay taxes on dividends they receive.
+But if the tax code is changed to lower the corporate income tax rate to 15 percent, from its current 35 percent, that creates a different fairness problem. Suddenly C corporations would have much lower tax rates than competitors that happen to be organized using pass-through structures, such as S corporations and limited liability companies.
+Advertisement
+Those companies include about 28 million entities, many of them quite small, but also many large enterprises like car dealerships, real estate partnerships and law firms. These interests are lobbying hard to have their organization’s profits taxed at the same low rate as C corporations may receive in a tax overhaul.
+Lawmakers and tax experts have proposed various solutions to prevent blatant tax avoidance using pass-throughs, and the Trump administration has signaled openness to them, while not specifying any particular approach.
+One blunt and powerful way would be for the tax code to allow only some fixed percentage of pass-through income to benefit from the lower tax rate. The problem is it would undermine the goal of putting a lower rate on pass-through income to begin with. That goal is to put these entities on an even tax footing with firms that pay the corporate income tax.
+There are more subtle approaches that limit the types of firms that can take advantage of the low rate, though those involve complex rules and the I.R.S.’s taking a more invasive role in trying to enforce them. I for one do not want an I.R.S. agent asking a bunch of nosy questions to try to figure out if Irwin Scribblings is a real company or a gimmick to lower my taxes.
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+View all New York Times newsletters.
+Eric Toder of the Tax Policy Center has an intriguing idea in which pass-through entities would distinguish between standard returns that business owners receive on capital they directly put into that business, which would be taxed at the low rate, and returns above that level. The latter returns would be taxed like labor, on the assumption that when a business achieves some extraordinary return, it suggests the business owner is really just paying for his or her own labor in a different way. That, though, would penalize entrepreneurs whose ventures have hit it big.
+Whichever approach Congress might take to rein in some of the opportunities for exploitation that a 15 percent pass-through rate creates, there is a more fundamental issue at stake.
+Simply put: The bigger the gap between the ordinary income tax rate and the tax on pass-through businesses, the more incentive that people — especially high-earning people — will have to find a way to game the system.
+If the pass-through tax rate were set at 25 percent, the 28-percent-tax-bracket people wouldn’t have much incentive to try to play these games. (Farewell, Irwin Scribblings.) But the highest earners, who face a top income tax rate of 39.6 percent on millions of dollars, most certainly would.
+“As long as you have differential rates, there will always be incentives to try to classify income in ways that take advantage of whichever rate is lower,” said Scott Greenberg, an analyst at the Tax Foundation.
+Advertisement
+Moreover, people with that much money at stake will have more ability and incentive than merely upper-middle-income people to hire good accountants and lawyers to ensure they comply with the letter of the tax code and I.R.S. regulations, if not necessarily the spirit. It’s not worth paying lawyers a few thousand dollars to save a few thousand dollars. It is worth paying lawyers a few thousand dollars to save a few million.
+All of that means that the low pass-through rate creates inherent advantages in the tax code for anyone wealthy enough and clever enough to try to find ways to exploit it, implicitly hurting those of us who are mere wage earners.
+That in turn raises questions about the nature of work in the 21st century.
+Right now, there might be a big difference in compensation between a top corporate executive and the most junior person in a factory or office floor. But one thing they share is that they are payroll employees of the company, tied to its success and with a variety of protections, like health insurance and retirement benefits, linked to that status.
+Already that definition at work has been eroded from one direction, with companies seeking to classify more of their workers as “independent contractors” who are essentially small businesses but without the tax advantages created by the Trump tax plan.
+A world with highly favorable treatment of pass-through income could create a dynamic where the traditional definition of a job is chipped away at the high end, with the best-compensated executives seeking to redefine their work relationship as a contract between a company and an S corporation or L.L.C.
+For every child who grows up dreaming of having a limited liability company of his or her own, President Trump’s tax plan promises a dazzling future.
+The Upshot provides news, analysis and graphics about politics, policy and everyday life. Follow us on Facebook and Twitter. Sign up for our newsletter.
+A version of this article appears in print on April 30, 2017, on Page BU1 of the New York edition with the headline: Would You Like to Be a Small Business?.  Order Reprints| Today's Paper|Subscribe
+
+
+We’re interested in your feedback on this page. Tell us what you think.
+Go to Home Page »

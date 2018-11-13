@@ -1,0 +1,44 @@
+Advertisement
+By MARC TRACYSEPT. 22, 2017
+
+BERKELEY, Calif. — For a preseason scrimmage in August, the University of California football team tried to replicate the game day experience as best it could. It stayed in a hotel the night before. It scheduled the kickoff earlier than usual to acclimate to the time zone in which it would play its season opener at North Carolina. And it spent the whole week of practices tapering down.
+For this last task, the Golden Bears relied not just on traditional methods, like fewer and simpler drills. They also relied on little chips implanted in the players’ gear capable of confirming that they were indeed working less.
+The devices, made by the company Catapult, use GPS to record not only distance traveled but also “explosive plays” and “load” — a term for the physiological toll a movement takes.
+In fact, wearable technology has burrowed into college football this season as never before. Sleep is tracked to understand how a player recovers — and to nudge him to recover more. Accelerometers tell coaches how quickly a defensive back gets to the line of scrimmage. Most top teams seem to be doing something, but the technology is no longer limited to power-school programs with the resources and staff members to make use of them; even Division II Grand Valley State of Allendale, Mich., became a Catapult client last year.
+Advertisement
+Yet so far, the changes are proving more evolutionary than revolutionary. Cal’s first-year head coach, Justin Wilcox, for instance, characterized various gadgets as “just another way to train our players,” drawing a direct line between them and the more basic cycle of practices, team meetings, weight-room work and games. Luke Rose, an assistant strength and conditioning coach at Rutgers, added: “At the end of the day, the biggest thing is not to rely on technology. Technology helps, don’t get me wrong, but the conversation with the kid and how the kid’s feeling is a big one, too.”
+For the moment, investors seem less supportive of the wearables industry. Equity funding plummeted to around $300 million last year from the more than $1.3 billion the industry raised in 2014, according to the Sports Innovation Lab. Isaiah Kacyvenski, managing director of the firm, said investor interest had waned because “wearable technology has failed to deliver on its outstretched promises.”
+Advertisement
+Yet there remains some sense that wearables represent a part of the future. Most investment is now directed toward early-stage companies; Nike and Under Armour are known to be interested in its potential; and Apple bills its fitness-tracking Apple Watch as “the ultimate device for a healthy life.”
+For an industry licking its wounds, elite sports is a redoubt.
+“The tracking, the analytics, have become a big component,” said Mike Joseph, director of strength and conditioning at West Virginia, which uses Catapult and Whoop’s wristbands, which track sleep and bodily “strain.”
+“It’s not just us,” Joseph added. “It’s N.F.L., N.B.A., M.L.B. — all these professional leagues — and it has filtered down.”
+The wearable tech company with the most penetration in college football is most likely Catapult, which arose out of Australian rules football. Roughly half the teams in college football’s Power 5 conferences, including Alabama, Wisconsin, Notre Dame and U.S.C., are clients. Torre Becton, Cal’s head of strength and conditioning for football, said the company’s legend grew after one of its earliest adopters, Florida State, went undefeated and won the national title in the 2013 season.
+But several other companies have had their share of college football success stories.
+At Rutgers, according to Rose, heart rate data from his Zephyr Performance Systems device revealed unusual prepractice spikes in one player, who was referred to the sports medicine team for anxiety.
+When Cal running back Patrick Laird felt unusually tired after one practice this summer, he sought confirmation in numbers gleaned from Catapult. It turned out he had broken his personal record for yards and “explosive movements” in that practice — valuable information for coaches and trainers who would like to keep the junior healthy and fresh.
+Advertisement
+West Virginia linebacker Al-Rasheed Benton used a Whoop wristband to track his sleep. “I’ve never been one to say, ‘O.K., I’m going to get 10 hours of sleep,’ ” he said. “But now I’m more conscious.”
+Jay Hooten, Northwestern football’s director of sports performance, spied irregular sleep data from a player’s Rise Science device, and sent him to a physician. The player was found to have sleep apnea.
+Clemson, the reigning national champion, has been using Rise Science’s sleep monitors. (So has the team it defeated in last season’s title game, Alabama.) Unlike Whoop and Fatigue Science, whose clients include Florida State and Texas, Rise Science tracks sleep not with a wristband but with a ribbon that goes underneath its subject’s mattress.
+“It’s kind of like back in the day, when we were having nutritionists, nobody wanted to talk to the nutritionist — ‘rabbit food’ — but now it’s cool to be with the nutritionist,” Clemson Coach Dabo Swinney said. “So we’re trying to create that same culture with our sleep, and these guys understanding how important it is for their performance.”
+That is why, an hour before bedtime each night, Clemson defensive tackle Jabril Robinson puts on melatonin glasses — shades designed to block out blue light, encouraging production of the hormone associated with sleep. Every morning, he said, he checks an app on his phone to see how long he slept, what his resting heart rate had been, and what, according to Rise Science, the overall quality of his slumber was.
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+View all New York Times newsletters.
+“They say you can feel the difference,” Robinson said, “and I think I feel it.”
+Wearable technology represents opportunity not only for the teams, but for the companies who sell it. Many teams break down their data for their own personal insights, effectively doing research on the companies’ behalf. The Clemson Data Analytics Team, for instance, is studying players’ on-field physiological data and sleep data in connection with each other.
+“The more people you get across it, the greater the set of information you’re going to get,” said Ryan Warkins, Catapult’s director of business operations for North America.
+But the very value of the data continues to disturb those who criticize its collection, particularly for college players, who are nonunionized and barred from receiving compensation beyond scholarships. Several critics objected last year when it was revealed that the University of Michigan’s contract with Nike opened the door to the collection and exploitation of players’ data.
+Moreover, the devices themselves are not the surefire gauges of futurists’ dreams. Few are medically validated, meaning they have not been subject to the rigorous testing and verification process legally required for, say, pacemakers. All measure something, but the usefulness of those measurements is up for debate.
+Advertisement
+“Even if you nail it on an accuracy level,” Kacyvenski said, “what does it mean?”
+Several teams interviewed for this article said that they had made intimate products like sleep-trackers voluntary and that the data they received was aggregated and kept anonymous, unless a player had chosen for it not to be. “It’s like an option,” West Virginia running back Justin Crawford said of Whoop’s tracker. “If you don’t want it, they’ll give it to another player.”
+Still, some fear the athletes’ data could be used against them, whether by revealing that a running back had taken greater wear and tear than might be apparent to the naked eye — information that might be extremely valuable to N.F.L. scouts — or by revealing that a player had been up late the night before a game.
+“We’re not looking at it like, ‘Was he in his bed last night?’ ” said Alexander Bina, the manager of the Clemson Data Analytics Team. “I don’t particularly care about that, and none of the coaches do. It’s meant to be a tool for athletes to use.”
+A version of this article appears in print on September 24, 2017, on Page SP7 of the New York edition with the headline: Data Tracking Extends to Sleep.  Order Reprints| Today's Paper|Subscribe
+
+
+We’re interested in your feedback on this page. Tell us what you think.
+Go to Home Page »
